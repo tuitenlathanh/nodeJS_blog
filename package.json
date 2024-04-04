@@ -1,0 +1,24 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "learning node js f8",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuitenlathanh/nodeJS_blog.git"
+  },
+  "author": "thanhdeptrai1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuitenlathanh/nodeJS_blog/issues"
+  },
+  "homepage": "https://github.com/tuitenlathanh/nodeJS_blog#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
